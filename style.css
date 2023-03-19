@@ -1,0 +1,19 @@
+.container{
+    overflow:scroll;
+  margin: 50px;
+  padding: 50px;
+  background-color: azure;
+  text-align: left;
+  max-width:450px ;
+  min-height: 100px;
+  min-height: 100px;
+  max-height: 400px;
+ 
+}
+.checker{
+    overflow: hidden;
+    margin:2em ;
+     border: 6px solid ;
+     letter-spacing:0.1em ;
+     text-align: center;
+     }
